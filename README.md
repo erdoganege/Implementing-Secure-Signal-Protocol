@@ -3,7 +3,7 @@ Sabanci University CS411 - Cryptography Course Project <br/>
 **Implementation** of the **Signal Protocol** as a demonstration of **secure** end-to-end encryption.
 
 * **Phase 1:** Developed software for the Public Key Registration
-* **Phase 2:** Developed software for receiving messages from other clients
+* **Phase 2:** Developed software to receive messages from other clients
 * **Phase 3:** Developed software to communicate with other clients
 
 ## Used Technologies/Algorithms:<br/>
