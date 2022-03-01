@@ -11,4 +11,4 @@ Sabanci University CS411 - Cryptography Course Project <br/>
 * **Hash based MAC (HMAC - SHA256)** function is used for **authentication**
 * **AES128-CTR** is used for message encryption
 
-## For detailed explaination of each phases check the [project assignment](https://github.com/erdoganege/Implementing-Signal-Protocol/blob/main/TERM%20PROJECT.pdf)
+## For detailed explaination of each phase check the [project assignment](https://github.com/erdoganege/Implementing-Signal-Protocol/blob/main/TERM%20PROJECT.pdf)
